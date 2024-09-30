@@ -1,6 +1,7 @@
 # WHAT'S THIS ABOUT?
 
 This repo follows the CairoZero tutorial exercises at <https://docs.cairo-lang.org/hello_cairo/index.html>
+
 **Disclaimer:** My solutions might be incorrect or incomplete. Please double-check the solutions on your own.
 
 To init the repo and run the cairo programs, make sure you have [set up the cairo environment  correctly](https://docs.cairo-lang.org/quickstart.html):
